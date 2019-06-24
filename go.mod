@@ -1,1 +1,1 @@
-module github.com/russross/blackfriday
+module github.com/wheelcomplex/blackfriday
